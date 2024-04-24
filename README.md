@@ -1,4 +1,4 @@
-# 2D-tennis-nostalgia
+# Dink-Donk
 a Pong like game.
 
 ## Description
@@ -16,6 +16,6 @@ a Pong like game.
 
 This game is heavily inspired by already existing video game called Pong.
 
-"2D Tennis Nostalgia" only serves as an educational project, and does not intend on infringing any trademarks.
+"Dink-Donk" only serves as an educational project, and does not intend on infringing any trademarks.
 
 This project is in no way affiliated with Atari.
